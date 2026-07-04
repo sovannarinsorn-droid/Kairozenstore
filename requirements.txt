@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+Flask
+requests
+python-dotenv
+qrcode
+numpy
+Pillow
+gunicorn

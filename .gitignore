@@ -1,0 +1,15 @@
+# Runtime / generated
+.runtime/
+__pycache__/
+*.pyc
+
+# Data files created by the bot at runtime (wallets, orders, users, etc.)
+*.json
+!render.yaml
+
+# Env / secrets
+.env
+.env.*
+
+# OS junk
+.DS_Store
